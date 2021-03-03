@@ -1,3 +1,1 @@
-# Applied R for political data science
-
-
+# applied-r-for-political-data-science
