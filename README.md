@@ -1,2 +1,3 @@
-# applied-r-for-political-science
-temp
+# Applied R for political data science
+
+
